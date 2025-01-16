@@ -98,5 +98,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Guillaume Berthonneau](https://bguillaume.fr)
 - [Ali Çorak](https://alicorak.com)
 - [Software Designer](https://www.johannesgerber.de)
+- [Paulo Bastos](http://www.pvbastos.com/)
 
 
