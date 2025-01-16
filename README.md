@@ -100,5 +100,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Software Designer](https://www.johannesgerber.de)
 - [Paulo Bastos](http://www.pvbastos.com/)
 - [Nate](https://natemp.framer.website/)
+- [Andrew Harnois](https://www.andrewharnois.com/)
 
 
