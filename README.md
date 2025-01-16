@@ -2,7 +2,7 @@
 
 A list of designer portfolios for your inspiration
 
-Have you created a portfolio you're proud of? Share it with the world! Open a PR to this repo and let's showcase your work! 
+Have you created a portfolio you're proud of? Share it with the world! Submit this form(https://templyo.io/designer-portfolios) or open a PR to this repo and let's showcase your work! 
 
 This repo was inspired by the developer portfolios list and aims to provide designers with a similar resource for creativity and ideas.
 
