@@ -101,5 +101,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Paulo Bastos](http://www.pvbastos.com/)
 - [Nate](https://natemp.framer.website/)
 - [Andrew Harnois](https://www.andrewharnois.com/)
+- [Practical People](https://practicalpeople.us/)
 
 
