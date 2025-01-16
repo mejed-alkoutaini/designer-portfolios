@@ -44,58 +44,59 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Stas Bondar](https://www.stabondar.com/)
 - [Dennis Snellenberg](https://dennissnellenberg.com/) [Freelance Designer]
 - [Niccolò Miranda](https://www.niccolomiranda.com/)
-- [Andrew Woan](ttps://www.woanminecraftfolio.com)
-- [Rosa](ttps://www.contraztmedia.nl)
-- [AnnFro](ttps://annfrol.github.io)
-- [Diana Weigandt](ttps://diweidt.tilda.ws) [Web Designer]
-- [Sam Small](ttps://samsmall.design)
-- [Jeremiah Shaw](ttps://www.jermshaw.com) [Brand Designer]
-- [Tom Parkes](ttps://www.tparkes.com)
-- [Stefan Hiienurm](ttps://shiienurm.com)
-- [Bradley Haynes](ttps://www.bradleyhaynes.com)
-- [Corey Snyder](ttps://tangerineindustries.com)
-- [Alexander Vilinskyy](ttps://www.vilinskyy.com)
-- [Jan Losert](ttps://www.janlosert.com)
-- [Daniel Eden](ttps://daneden.me)
-- [Isaac Blankensmith](ttps://isaacblankensmith.com)
-- [Francesco Fagioli](ttps://www.francescofagioli.me) [Senior Product Designer]
-- [Hanson](ttps://www.hansonwu.com)
-- [Iain McConchie](ttps://www.konch.net)
-- [Moritz Oesterlau](ttps://www.moritzoesterlau.de) [UX/UI Designer]
-- [Jimmy Davies](ttps://jimmydavies.com)
-- [Jordan Versluis](ttps://www.jordanversluis.net)
-- [mousey](ttps://www.mousey.design)
-- [Igor Vensko](ttps://wizardmode.io)
-- [Nick Buzz](ttps://baked.design)
-- [Kinexa](ttps://www.kinexa.agency)
-- [Ashish](ttps://bionicashish.framer.website)
-- [Jason Fonseca](ttps://www.jasonfonseca.com)
-- [Kiran Karty](ttps://kirankarty.designfolio.me)
-- [Cam Jordan](ttps://www.cjpux.com)
-- [Jordan Hughes](ttps://jordanhughes.co) [Product Designer]
-- [Praveen Juge](ttps://praveenjuge.com) [Designer & Developer]
-- [Matt Clark](ttps://www.narrow.land/matt-clark)
-- [Dmitry Sergushkin](ttps://www.dmitrysergushkin.com)
-- [Louis Nguyen](ttps://louisnguyen.co)
-- [Uvindu Harshana](ttps://itsnue.github.io)
-- [Johnnie Gomez](ttps://www.johnnies.life)
-- [Manny Uwak](ttps://www.manny-uwak.com)
-- [Elfan](ttps://melfanza.typedream.app) [Freelance Designer]
-- [Inthikhab](ttps://inthikhab.framer.website)
-- [Fabrizzio Zampieri](ttps://fzamp.design)
-- [Seyi Oniyitan](ttps://seyi.webflow.io)
-- [Fifty Seven](ttps://www.fiftyseven.co)
-- [Jordi Espinosa](ttps://www.jordiespinosa.com)
-- [Seyi Balogun](ttps://seyidesigns.netlify.app) [Design Specialist]
-- [Osha Helawan](ttps://oshahelawan.framer.website)
-- [Facu Montanaro](ttps://www.facumontanaro.com) [Visual Designer]
-- [Jeremy Blaze](ttps://neverbeforeseen.co)
-- [Sam Stoof](ttps://www.samstoof.com)
-- [Nick Collins](ttps://nickcollins.co)
-- [Kazi Mahbub](ttps://mahbubuiux.com)
-- [Mohammed Hussaini](ttps://heylekan.vercel.app)
-- [Kirill Lipovoi](ttps://lipovoikirill.work)
-- [Guillaume Berthonneau](ttps://bguillaume.fr)
-- [Ali Çorak](ttps://alicorak.com)
-- [Software Designer](ttps://www.johannesgerber.de)
+- [Andrew Woan](https://www.woanminecraftfolio.com)
+- [Rosa](https://www.contraztmedia.nl)
+- [AnnFro](https://annfrol.github.io)
+- [Diana Weigandt](https://diweidt.tilda.ws) [Web Designer]
+- [Sam Small](https://samsmall.design)
+- [Jeremiah Shaw](https://www.jermshaw.com) [Brand Designer]
+- [Tom Parkes](https://www.tparkes.com)
+- [Stefan Hiienurm](https://shiienurm.com)
+- [Bradley Haynes](https://www.bradleyhaynes.com)
+- [Corey Snyder](https://tangerineindustries.com)
+- [Alexander Vilinskyy](https://www.vilinskyy.com)
+- [Jan Losert](https://www.janlosert.com)
+- [Daniel Eden](https://daneden.me)
+- [Isaac Blankensmith](https://isaacblankensmith.com)
+- [Francesco Fagioli](https://www.francescofagioli.me) [Senior Product Designer]
+- [Hanson](https://www.hansonwu.com)
+- [Iain McConchie](https://www.konch.net)
+- [Moritz Oesterlau](https://www.moritzoesterlau.de) [UX/UI Designer]
+- [Jimmy Davies](https://jimmydavies.com)
+- [Jordan Versluis](https://www.jordanversluis.net)
+- [mousey](https://www.mousey.design)
+- [Igor Vensko](https://wizardmode.io)
+- [Nick Buzz](https://baked.design)
+- [Kinexa](https://www.kinexa.agency)
+- [Ashish](https://bionicashish.framer.website)
+- [Jason Fonseca](https://www.jasonfonseca.com)
+- [Kiran Karty](https://kirankarty.designfolio.me)
+- [Cam Jordan](https://www.cjpux.com)
+- [Jordan Hughes](https://jordanhughes.co) [Product Designer]
+- [Praveen Juge](https://praveenjuge.com) [Designer & Developer]
+- [Matt Clark](https://www.narrow.land/matt-clark)
+- [Dmitry Sergushkin](https://www.dmitrysergushkin.com)
+- [Louis Nguyen](https://louisnguyen.co)
+- [Uvindu Harshana](https://itsnue.github.io)
+- [Johnnie Gomez](https://www.johnnies.life)
+- [Manny Uwak](https://www.manny-uwak.com)
+- [Elfan](https://melfanza.typedream.app) [Freelance Designer]
+- [Inthikhab](https://inthikhab.framer.website)
+- [Fabrizzio Zampieri](https://fzamp.design)
+- [Seyi Oniyitan](https://seyi.webflow.io)
+- [Fifty Seven](https://www.fiftyseven.co)
+- [Jordi Espinosa](https://www.jordiespinosa.com)
+- [Seyi Balogun](https://seyidesigns.netlify.app) [Design Specialist]
+- [Osha Helawan](https://oshahelawan.framer.website)
+- [Facu Montanaro](https://www.facumontanaro.com) [Visual Designer]
+- [Jeremy Blaze](https://neverbeforeseen.co)
+- [Sam Stoof](https://www.samstoof.com)
+- [Nick Collins](https://nickcollins.co)
+- [Kazi Mahbub](https://mahbubuiux.com)
+- [Mohammed Hussaini](https://heylekan.vercel.app)
+- [Kirill Lipovoi](https://lipovoikirill.work)
+- [Guillaume Berthonneau](https://bguillaume.fr)
+- [Ali Çorak](https://alicorak.com)
+- [Software Designer](https://www.johannesgerber.de)
+
 
