@@ -102,5 +102,14 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Nate](https://natemp.framer.website/)
 - [Andrew Harnois](https://www.andrewharnois.com/)
 - [Practical People](https://practicalpeople.us/)
+- [Dave Gruentzel](https://davegruentzel.com/)
+- [Henry](https://henrydesign.framer.website/)
+- [Weekend Visuals](https://weekendvisuals.com/) [UI/UX Designer]
+- [Kyle Conrad](https://kyleconrad.com/)
+- [Brandon Tucs](https://brandontucs.me/)
+- [DANOSITE](https://www.danosite.com/)
+- [Bourdonner](https://www.bourdonner.com.br/)
+- [Pascal Zirn](https://icyfeva.webflow.io/) [Digital Product Designer]
+- [Alan Brown](https://alanbrown.ca/)
 
 
