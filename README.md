@@ -99,5 +99,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Ali Çorak](https://alicorak.com)
 - [Software Designer](https://www.johannesgerber.de)
 - [Paulo Bastos](http://www.pvbastos.com/)
+- [Nate](https://natemp.framer.website/)
 
 
