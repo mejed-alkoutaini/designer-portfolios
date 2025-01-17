@@ -113,6 +113,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Alan Brown](https://alanbrown.ca/)
 - [Matt Szyszko](https://shysh.co/) [Graphic Designer]
 - [Michael Coburn](https://mic-hael.com/) [Branding Specialist]
-- 
+- [Sangaji Pramono](https://archiemons.com/portfolio/)
 
 
