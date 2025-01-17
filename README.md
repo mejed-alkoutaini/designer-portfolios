@@ -114,5 +114,10 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Matt Szyszko](https://shysh.co/) [Graphic Designer]
 - [Michael Coburn](https://mic-hael.com/) [Branding Specialist]
 - [Sangaji Pramono](https://archiemons.com/portfolio/)
+- [Eric Gage](https://ericgage.us/)
+- [Jordan Ayson](https://jordancreates.myportfolio.com/)
+- [Anas Alabsi](https://www.anasalabsi.com/)
+- [Emily Grimaldi](https://egrimald.myportfolio.com/)
+- [Grafiko Labs](https://bento.me/grafikolabs)
 
 
