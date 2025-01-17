@@ -119,5 +119,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Anas Alabsi](https://www.anasalabsi.com/)
 - [Emily Grimaldi](https://egrimald.myportfolio.com/)
 - [Grafiko Labs](https://bento.me/grafikolabs)
+- [Quint Bailey](https://www.quint.design/)
 
 
