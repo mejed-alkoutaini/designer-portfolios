@@ -121,5 +121,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Grafiko Labs](https://bento.me/grafikolabs)
 - [Quint Bailey](https://www.quint.design/)
 - [Mehak Kapoor](https://www.behance.net/mehakkapoor9)
+- [Ahmed Touhami](https://touhami.pages.dev/)
 
 
