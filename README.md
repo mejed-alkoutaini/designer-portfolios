@@ -12,6 +12,7 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 
 
 
+- [Aabid Ahmed](https://sawad.framer.website/)
 - [Bruno Simon](https://bruno-simon.com/)
 - [Sebastien Lempens](https://www.sebastien-lempens.com/)
 - [Antoine Wodniack](https://wodniack.dev/)
@@ -34,7 +35,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Local Studio](https://localstudio.fr/)
 - [Mike Fernandez](https://www.mike-fernandez.dev/)
 - [David](https://www.davidanthonychenault.com/)
-- [Aabid Ahmed](https://sawad.framer.website/)
 - [Christopher Walker](https://stabraq.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
 - [Joshuas](https://www.joshuas.world/)
