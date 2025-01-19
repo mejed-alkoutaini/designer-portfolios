@@ -124,5 +124,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Ahmed Touhami](https://touhami.pages.dev/)
 - [Charles Isiofia](https://www.charleschineduisiofia.co.uk/)
 - [Kamal Khan](https://www.behance.net/kamalkhan21)
+- [Matthew Brigante](https://www.matthew-brigante.com/)
 
 
