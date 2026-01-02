@@ -12,7 +12,7 @@ You can submit a portfolio in **two different ways**.
 
 The easiest way to contribute is by submitting your portfolio through this form:
 
-👉 https://templyo.io/designer-portfolios[https://templyo.io/designer-portfolios]
+👉 https://templyo.io/designer-portfolios
 
 Submitted portfolios are reviewed and added to the list if they meet the
 quality guidelines.
