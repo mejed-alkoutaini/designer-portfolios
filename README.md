@@ -1,4 +1,4 @@
-# A curated list of the best designer portfolio websites
+# A Curated List of the Best Designer Portfolio Websites
 
 A hand-picked collection of outstanding designer portfolio websites
 showcasing UI design, UX case studies, branding, and creative direction.
