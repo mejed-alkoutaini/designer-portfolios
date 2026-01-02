@@ -1,6 +1,9 @@
-# Designer Portfolios
+# A curated list of the best designer portfolio websites
 
-A list of designer portfolios for your inspiration
+A hand-picked collection of outstanding designer portfolio websites
+showcasing UI design, UX case studies, branding, and creative direction.
+Inspired by popular developer portfolio lists and built for designers
+seeking inspiration.
 
 Have you created a portfolio you're proud of? Share it with the world! Submit this [form](https://templyo.io/designer-portfolios) or open a PR to this repo and let's showcase your work! 
 
