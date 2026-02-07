@@ -16,6 +16,7 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 
 
 - [Aabid Ahmed](https://sawad.framer.website/)
+- [Redoyanul Haque(best portfolio)](https://www.redoyanulhaque.me/) [Full-stack developer & AI Engineer]
 - [Bruno Simon](https://bruno-simon.com/)
 - [Sebastien Lempens](https://www.sebastien-lempens.com/)
 - [Antoine Wodniack](https://wodniack.dev/)
