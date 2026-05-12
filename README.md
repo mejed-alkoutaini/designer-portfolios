@@ -130,5 +130,6 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Kamal Khan](https://www.behance.net/kamalkhan21)
 - [Matthew Brigante](https://www.matthew-brigante.com/)
 - [ITS SUDAIS](https://contextual-behavior-041127.framer.app/) [Graphic Designer]
+- [Parish Khan](https://parish.cv/) [Senior Software Developer | React, TypeScript]
 
 
