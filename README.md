@@ -16,6 +16,7 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 
 
 - [Aabid Ahmed](https://sawad.framer.website/)
+- [Aanand Madhav](https://aanandmadhav.com/) [Product, UX, and Development]
 - [Redoyanul Haque(best portfolio)](https://www.redoyanulhaque.me/) [Full-stack developer & AI Engineer]
 - [Bruno Simon](https://bruno-simon.com/)
 - [Sebastien Lempens](https://www.sebastien-lempens.com/)
@@ -130,5 +131,4 @@ We hope this collection becomes a valuable source of inspiration for crafting yo
 - [Kamal Khan](https://www.behance.net/kamalkhan21)
 - [Matthew Brigante](https://www.matthew-brigante.com/)
 - [ITS SUDAIS](https://contextual-behavior-041127.framer.app/) [Graphic Designer]
-
 
